@@ -1,0 +1,70 @@
+
+.header {
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+video {
+	width: 100%;
+	height: auto;
+}
+img.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+/* Barre de navigation */
+.topnav {
+	overflow: hidden;
+	background-color: rgb(37, 37, 37);
+}
+  
+  /* liens de la barre de navigation */
+.topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition-duration: 0.4s;
+}
+  
+  /* passer la souris dessus */
+.topnav a:hover {
+	background-color: rgb(253, 101, 101);
+	color: rgb(0, 0, 0);
+}
+  
+.imgKart {
+	width: 100%;
+	height: auto;
+}
+
+hr{
+	margin-top:40px;
+}
+h1{
+	font-family: "Brush Script MT", verdana;
+	font-size: 70px;
+}
+h2{
+	font-family: "Brush Script MT", verdana;
+	font-size: 40px;
+}
+body{
+	font-family: Georgia;
+	background-color: rgba(55, 173, 241, 0.432);
+}
+#MainContainer {
+	margin: 0px auto;
+	width: 70%;
+	height: 100%
+	border-width: 0px 10px; 
+	border-style:double; 
+	border-color:black;
+	padding: 0px 10px;
+	background-color:white;
+}
